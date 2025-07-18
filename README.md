@@ -1,4 +1,4 @@
-# Mix Server - Basic MCP Server for Data File Analysis
+# Basic MCP Server for Data File Analysis
 
 A Model Context Protocol (MCP) server that provides tools for analyzing CSV and Parquet files.
 
