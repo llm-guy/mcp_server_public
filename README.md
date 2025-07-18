@@ -72,7 +72,7 @@ This starts the MCP server for you.
       "command": "uv",
       "args": [
         "--directory",
-        "/path/to/your/mix_server",
+        "/path/to/your/mcp_server_public",
         "run",
         "main.py"
       ]
@@ -81,7 +81,7 @@ This starts the MCP server for you.
 }
 ```
 
-**Note**: Replace `/path/to/your/mix_server` with the actual path to your mix_server directory.
+**Note**: Replace `/path/to/your/mcp_server_public` with the actual path to your mcp_server_public directory.
 
 Once loaded you should see all available tools for your local LLM to use.
 
